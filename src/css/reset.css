@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(/cartao-ligya/src/imagens/logo-favicon.ico);
+    font-family: 'Kumbh Sans' sans-serif;
+}
