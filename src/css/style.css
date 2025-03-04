@@ -28,6 +28,10 @@
     border-radius: 50%; 
 }
 
+hr{
+    margin-top: 50px;
+    width: 107%;
+}
 
 .informacoes-da-pessoa{
     display: flex;
@@ -41,9 +45,8 @@
 
 .informacoes-insta {
     display: flex;
-    margin: 50px;
     font-size: 10px;
-    border-top: 1px solid grey;
+
 }
 
 
