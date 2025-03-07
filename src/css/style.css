@@ -1,4 +1,8 @@
 
+body{
+    background-image: url(/src/imagens/logo-favicon.ico);
+}
+
 #cartao{
     display: flex;
     border-radius: 2%;
